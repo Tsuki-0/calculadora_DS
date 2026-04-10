@@ -1,0 +1,42 @@
+C:\Users\LabInfo\source\repos\Flavio-117\DS_Windows-form_calculadora\calculadora_WF\calculadora_WF\obj\Debug\Windows_Form.csproj.AssemblyReference.cache
+C:\Users\LabInfo\source\repos\Flavio-117\DS_Windows-form_calculadora\calculadora_WF\calculadora_WF\obj\Debug\calculadora_WF.exe.config
+C:\Users\LabInfo\source\repos\Flavio-117\DS_Windows-form_calculadora\calculadora_WF\calculadora_WF\obj\Debug\calculadora_WF.MDI.resources
+C:\Users\LabInfo\source\repos\Flavio-117\DS_Windows-form_calculadora\calculadora_WF\calculadora_WF\obj\Debug\calculadora_WF.Properties.Resources.resources
+C:\Users\LabInfo\source\repos\Flavio-117\DS_Windows-form_calculadora\calculadora_WF\calculadora_WF\obj\Debug\Windows_Form.csproj.GenerateResource.cache
+C:\Users\LabInfo\source\repos\Flavio-117\DS_Windows-form_calculadora\calculadora_WF\calculadora_WF\obj\Debug\Windows_Form.csproj.CoreCompileInputs.cache
+C:\Users\LabInfo\source\repos\Flavio-117\DS_Windows-form_calculadora\calculadora_WF\calculadora_WF\obj\Debug\calculadora_WF.exe
+C:\Users\LabInfo\source\repos\Flavio-117\DS_Windows-form_calculadora\calculadora_WF\calculadora_WF\obj\Debug\calculadora_WF.pdb
+C:\Users\LabInfo\source\repos\Flavio-117\DS_Windows-form_calculadora\calculadora_WF\calculadora_WF\bin\Debug\calculadora_WF.exe.config
+C:\Users\LabInfo\source\repos\Flavio-117\DS_Windows-form_calculadora\calculadora_WF\calculadora_WF\bin\Debug\calculadora_WF.exe
+C:\Users\LabInfo\source\repos\Flavio-117\DS_Windows-form_calculadora\calculadora_WF\calculadora_WF\bin\Debug\calculadora_WF.pdb
+C:\Users\LabInfo\source\repos\Flavio-117\DS_Windows-form_calculadora\calculadora_WF\calculadora_WF\obj\Debug\calculadora_WF.calculadora_radio.resources
+C:\Users\LabInfo\source\repos\Flavio-117\DS_Windows-form_calculadora\calculadora_WF\calculadora_WF\obj\Debug\calculadora_WF.calculadora_botoes.resources
+C:\Users\LabInfo\source\repos\Flavio-117\DS_Windows-form_calculadora\calculadora_WF\calculadora_WF\obj\Debug\calculadora_WF.calculadora_padrao.resources
+C:\Users\Flávio Vinícius\source\repos\Flavio-117\DS_Windows-form_calculadora\calculadora_WF\calculadora_WF\bin\Debug\calculadora_WF.exe.config
+C:\Users\Flávio Vinícius\source\repos\Flavio-117\DS_Windows-form_calculadora\calculadora_WF\calculadora_WF\bin\Debug\calculadora_WF.exe
+C:\Users\Flávio Vinícius\source\repos\Flavio-117\DS_Windows-form_calculadora\calculadora_WF\calculadora_WF\bin\Debug\calculadora_WF.pdb
+C:\Users\Flávio Vinícius\source\repos\Flavio-117\DS_Windows-form_calculadora\calculadora_WF\calculadora_WF\obj\Debug\Windows_Form.csproj.AssemblyReference.cache
+C:\Users\Flávio Vinícius\source\repos\Flavio-117\DS_Windows-form_calculadora\calculadora_WF\calculadora_WF\obj\Debug\calculadora_WF.exe.config
+C:\Users\Flávio Vinícius\source\repos\Flavio-117\DS_Windows-form_calculadora\calculadora_WF\calculadora_WF\obj\Debug\calculadora_WF.calculadora_padrao.resources
+C:\Users\Flávio Vinícius\source\repos\Flavio-117\DS_Windows-form_calculadora\calculadora_WF\calculadora_WF\obj\Debug\calculadora_WF.calculadora_radio.resources
+C:\Users\Flávio Vinícius\source\repos\Flavio-117\DS_Windows-form_calculadora\calculadora_WF\calculadora_WF\obj\Debug\calculadora_WF.calculadora_botoes.resources
+C:\Users\Flávio Vinícius\source\repos\Flavio-117\DS_Windows-form_calculadora\calculadora_WF\calculadora_WF\obj\Debug\calculadora_WF.MDI.resources
+C:\Users\Flávio Vinícius\source\repos\Flavio-117\DS_Windows-form_calculadora\calculadora_WF\calculadora_WF\obj\Debug\calculadora_WF.Properties.Resources.resources
+C:\Users\Flávio Vinícius\source\repos\Flavio-117\DS_Windows-form_calculadora\calculadora_WF\calculadora_WF\obj\Debug\Windows_Form.csproj.GenerateResource.cache
+C:\Users\Flávio Vinícius\source\repos\Flavio-117\DS_Windows-form_calculadora\calculadora_WF\calculadora_WF\obj\Debug\Windows_Form.csproj.CoreCompileInputs.cache
+C:\Users\Flávio Vinícius\source\repos\Flavio-117\DS_Windows-form_calculadora\calculadora_WF\calculadora_WF\obj\Debug\calculadora_WF.exe
+C:\Users\Flávio Vinícius\source\repos\Flavio-117\DS_Windows-form_calculadora\calculadora_WF\calculadora_WF\obj\Debug\calculadora_WF.pdb
+C:\Users\Flávio Vinícius\Downloads\DS_Windows-form_calculadora-final\DS_Windows-form_calculadora-d33fa5f5506b01464c1f9d6ea438aa1ca2f9150e\calculadora_WF\calculadora_WF\bin\Debug\calculadora_WF.exe.config
+C:\Users\Flávio Vinícius\Downloads\DS_Windows-form_calculadora-final\DS_Windows-form_calculadora-d33fa5f5506b01464c1f9d6ea438aa1ca2f9150e\calculadora_WF\calculadora_WF\bin\Debug\calculadora_WF.exe
+C:\Users\Flávio Vinícius\Downloads\DS_Windows-form_calculadora-final\DS_Windows-form_calculadora-d33fa5f5506b01464c1f9d6ea438aa1ca2f9150e\calculadora_WF\calculadora_WF\bin\Debug\calculadora_WF.pdb
+C:\Users\Flávio Vinícius\Downloads\DS_Windows-form_calculadora-final\DS_Windows-form_calculadora-d33fa5f5506b01464c1f9d6ea438aa1ca2f9150e\calculadora_WF\calculadora_WF\obj\Debug\Windows_Form.csproj.AssemblyReference.cache
+C:\Users\Flávio Vinícius\Downloads\DS_Windows-form_calculadora-final\DS_Windows-form_calculadora-d33fa5f5506b01464c1f9d6ea438aa1ca2f9150e\calculadora_WF\calculadora_WF\obj\Debug\calculadora_WF.exe.config
+C:\Users\Flávio Vinícius\Downloads\DS_Windows-form_calculadora-final\DS_Windows-form_calculadora-d33fa5f5506b01464c1f9d6ea438aa1ca2f9150e\calculadora_WF\calculadora_WF\obj\Debug\calculadora_WF.calculadora_padrao.resources
+C:\Users\Flávio Vinícius\Downloads\DS_Windows-form_calculadora-final\DS_Windows-form_calculadora-d33fa5f5506b01464c1f9d6ea438aa1ca2f9150e\calculadora_WF\calculadora_WF\obj\Debug\calculadora_WF.calculadora_radio.resources
+C:\Users\Flávio Vinícius\Downloads\DS_Windows-form_calculadora-final\DS_Windows-form_calculadora-d33fa5f5506b01464c1f9d6ea438aa1ca2f9150e\calculadora_WF\calculadora_WF\obj\Debug\calculadora_WF.calculadora_botoes.resources
+C:\Users\Flávio Vinícius\Downloads\DS_Windows-form_calculadora-final\DS_Windows-form_calculadora-d33fa5f5506b01464c1f9d6ea438aa1ca2f9150e\calculadora_WF\calculadora_WF\obj\Debug\calculadora_WF.MDI.resources
+C:\Users\Flávio Vinícius\Downloads\DS_Windows-form_calculadora-final\DS_Windows-form_calculadora-d33fa5f5506b01464c1f9d6ea438aa1ca2f9150e\calculadora_WF\calculadora_WF\obj\Debug\calculadora_WF.Properties.Resources.resources
+C:\Users\Flávio Vinícius\Downloads\DS_Windows-form_calculadora-final\DS_Windows-form_calculadora-d33fa5f5506b01464c1f9d6ea438aa1ca2f9150e\calculadora_WF\calculadora_WF\obj\Debug\Windows_Form.csproj.GenerateResource.cache
+C:\Users\Flávio Vinícius\Downloads\DS_Windows-form_calculadora-final\DS_Windows-form_calculadora-d33fa5f5506b01464c1f9d6ea438aa1ca2f9150e\calculadora_WF\calculadora_WF\obj\Debug\Windows_Form.csproj.CoreCompileInputs.cache
+C:\Users\Flávio Vinícius\Downloads\DS_Windows-form_calculadora-final\DS_Windows-form_calculadora-d33fa5f5506b01464c1f9d6ea438aa1ca2f9150e\calculadora_WF\calculadora_WF\obj\Debug\calculadora_WF.exe
+C:\Users\Flávio Vinícius\Downloads\DS_Windows-form_calculadora-final\DS_Windows-form_calculadora-d33fa5f5506b01464c1f9d6ea438aa1ca2f9150e\calculadora_WF\calculadora_WF\obj\Debug\calculadora_WF.pdb
